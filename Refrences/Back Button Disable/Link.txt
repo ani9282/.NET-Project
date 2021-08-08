@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/12381563/how-to-stop-browser-back-button-using-javascript/23794555#:~:text=You%20can%2Dnot%20actually%20disable,impression%20like%20it%20is%20disabled.

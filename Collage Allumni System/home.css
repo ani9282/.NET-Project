@@ -1,0 +1,155 @@
+﻿
+body {
+     background: linear-gradient(40deg,blue,salmon,blue,salmon);
+    clip-path: polygon(0 0,100% 0,100% 100%,0 100%);
+  
+
+}
+ header
+    {
+        background-color:black;
+        font-size:25px;
+        padding:20px;
+        text-align:left;
+        line-height:10px;
+         }
+.head {
+    background-color: gray;
+    
+}
+       header1
+    {
+       
+        
+        background-color:darkgray;
+        padding:20px;
+        text-align:left;
+        color:red;
+        font-size:35px;
+        width:100%;
+    }
+    
+   
+.head marquee 
+ {
+    
+   padding: 15px;
+    font-size: 30px;
+    color: red;
+
+}  
+
+    
+
+    
+ .para{
+     background:darkgray;
+ }
+    .menu-area li a
+{
+//background-color:aquamarine;
+    text-decoration:none;
+    top: -21px;
+    left: 38px;
+    width: 84px;
+    height: 35px;
+}
+.menu-area li
+{
+    list-style:none;
+}
+.custon-padding
+{
+    padding-top:25px;
+}
+nav
+{
+    position:relative;
+    width:calc (100%-60px);
+    z-index:1;
+    text-align:right;
+    padding-right:2%;
+    top: -12px;
+    left: -14px;
+    height: 42px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/*.logo
+{
+    float:left;
+    width:15%;
+    padding:20px;
+    text-transform:uppercase;
+    color:Blue;
+    text-align:left;
+    font-size:25px;
+    
+}*/
+.menu-area li
+{
+    display:inline-block;
+}
+.menu-area a
+{
+    color:black;
+    font-weight:300;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    display:block;
+    padding:0 25px;
+    font-size:14px;
+    line-height:30px;
+    position:relative;
+    z-index:1;
+    
+}
+.menu-area a:hover:after
+{
+    background:tomato;
+    color:#fff;
+    transform:translateY(-50);
+    rotate(-35deg);
+   
+}
+
+
+.cediv
+    {
+    
+width:25%;
+height:150px;
+float:left;
+        }
+.row:after
+        {
+    
+content:" ";
+clear:both;
+display:table;
+            }
+
+
+
+
+
+
+
+
+
+ 
+
+
+   
+
+
+
+
+
+
+ 
+
+
+   
+
